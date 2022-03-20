@@ -1,2 +1,2 @@
-# shopping-cart-redux
-The purpose of this repo to demonstrate shopping cart flow with for e-commerce website
+# Shopping Cart Built in React JS with Context API and useReducer
+
